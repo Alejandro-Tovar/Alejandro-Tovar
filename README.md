@@ -1,4 +1,4 @@
-# Hi there, I'm Alejo👋
+# Hi there, I'm Alejandro!
 
 ### About Me
 
