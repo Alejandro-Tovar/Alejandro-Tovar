@@ -1,39 +1,70 @@
-# Hi there, I'm Alejandro!
+# Diego Alejandro Tovar Castañeda
 
-### About Me
+Software Engineer focused on backend systems, release engineering, cloud infrastructure, and secure software delivery.
 
-I'm a software developer with over 6 years of experience specializing in backend development, distributed services, microservices, and cloud infrastructures. My expertise lies primarily in **Java**, **Spring Modules**, and **AWS**. I’m passionate about security development, teamwork, and building scalable applications.
+I have 7+ years of experience building and maintaining Java-based systems across product, travel, education, payments, and enterprise platforms. My strongest areas are Java, Spring, distributed services, CI/CD, release coordination, production support, test coverage, and long-term codebase maintainability.
 
-- 💼 Currently working as a Software Engineer at Sonatype.
-- 🌍 Based in Colombia.
-- 💻 Most comfortable with: Java, Spring, Microservices, AWS.
-- 📚 AWS Certified.
+Currently, I work at Sonatype as part of the core engineering team for Nexus Repository Community Edition and Nexus Repository Cloud Egress, contributing to product development, release execution, code quality, and platform reliability.
 
-### Technologies & Tools
+## Current Work
 
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+- Core engineering for Nexus Repository Community Edition and Nexus Repository Cloud Egress.
+- Release Captain responsibilities for coordinated product release cycles.
+- Defect resolution, test coverage improvements, CI/CD maintenance, and dependency updates.
+- Refactoring legacy modules to improve maintainability, stability, and performance.
+- Cross-team collaboration with product and engineering teams on secure, scalable features.
 
+## Core Stack
 
-### How to Reach Me
+- Languages: Java, SQL, JavaScript, TypeScript
+- Backend: Spring, Spring Boot, REST APIs, microservices
+- Cloud and Platform: AWS, Docker, Kubernetes
+- Databases: PostgreSQL, Oracle, PL/SQL
+- Engineering Practices: CI/CD, release management, code review, automated testing, debugging, refactoring
+- Frontend Experience: Angular, JSF/JSP
+
+## Experience Highlights
+
+- Built and released backend product features for enterprise software used across multiple environments.
+- Led release cycles as Release Captain, coordinating engineering work through deployment.
+- Improved stability through critical defect resolution, stronger test coverage, and legacy code refactoring.
+- Worked on large-scale platforms and client systems including Sonatype, Expedia, Blackboard, Southwest Airlines, Asopagos, and academic systems for Colombian institutions.
+- Delivered both backend and full-stack work across Java, Spring, Angular, SQL, and cloud-based environments.
+
+## Current Focus
+
+- Deepening backend architecture and system design skills.
+- Building public portfolio projects with production-style engineering practices.
+- Improving AI-assisted engineering workflows for planning, implementation, testing, and review.
+- Strengthening security, reliability, and release-readiness in software delivery.
+
+## Featured Projects
+
+### IncidentLens
+
+AI-assisted incident management and postmortem platform.
+
+Focus areas:
+
+- Java 21
+- Spring Boot
+- PostgreSQL
+- Flyway
+- Testcontainers
+- Docker Compose
+- OpenAPI
+- Clean architecture
+- AI-assisted engineering workflows
+
+## Engineering Principles
+
+- Prefer maintainable systems over clever implementations.
+- Treat tests, reviews, and release discipline as part of the product.
+- Improve legacy code incrementally and safely.
+- Build software with security, performance, and operational reliability in mind.
+- Use AI as an engineering accelerator, supported by technical judgment.
+
+## Contact
 
 - LinkedIn: [Alejandro Tovar](https://www.linkedin.com/in/dalejandro9583/)
-
-### Current Focus
-
-- Improving my skills as a Full Stack Developer
-- Polishing my DSA skills
-- Exploring investment opportunities
-
-### Interests
-
-- 🎮 Gaming
-- 💻 Coding
-- 📈 Investing
-- 🌱 Living
-
----
+- GitHub: [Alejandro-Tovar](https://github.com/Alejandro-Tovar)
