@@ -38,24 +38,6 @@ Currently, I work at Sonatype as part of the core engineering team for Nexus Rep
 - Improving AI-assisted engineering workflows for planning, implementation, testing, and review.
 - Strengthening security, reliability, and release-readiness in software delivery.
 
-## Featured Projects
-
-### IncidentLens
-
-AI-assisted incident management and postmortem platform.
-
-Focus areas:
-
-- Java 21
-- Spring Boot
-- PostgreSQL
-- Flyway
-- Testcontainers
-- Docker Compose
-- OpenAPI
-- Clean architecture
-- AI-assisted engineering workflows
-
 ## Engineering Principles
 
 - Prefer maintainable systems over clever implementations.
